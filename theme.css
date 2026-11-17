@@ -1,0 +1,24 @@
+
+:root{
+    
+    --primary-color: #176BCE;
+    --secondary-color: #12233F;
+    --body-background: #EDF6FC;
+    --white-color: #FFFFFF;
+
+    
+    --text-color: #12233F;
+    --text-light: #5F6F85;
+    --text-footer: #BEC9D8;
+
+    
+    --border-color: #D7E4EE;
+
+
+    --button-hover: #1d4ed8;
+    --focus-color: #3b82f6;
+
+
+    --shadow-color: rgba(0, 0, 0, 0.15);
+    --focus-shadow: rgba(59, 130, 246, 0.2);
+}
